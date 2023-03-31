@@ -4,9 +4,10 @@ program HashIdTest;
 
 {$R *.res}
 
-uses System.SysUtils
-   , HashIds in 'HashIds.pas'
-   ;
+uses
+  System.SysUtils,
+  HashIds in '..\HashIds.pas';
+
 var
   oHashIds : THashIds;
 begin
