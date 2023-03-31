@@ -4,7 +4,7 @@
         <AppType>Console</AppType>
         <Config Condition="'$(Config)'==''">Debug</Config>
         <FrameworkType>None</FrameworkType>
-        <MainSource>HashIdTest.dpr</MainSource>
+        <MainSource>HashIdConsole.dpr</MainSource>
         <Platform Condition="'$(Platform)'==''">Win64</Platform>
         <ProjectGuid>{9804B8F7-372A-4C79-9FE5-6A75DA02D481}</ProjectGuid>
         <ProjectVersion>19.5</ProjectVersion>
