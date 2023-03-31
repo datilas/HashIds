@@ -1,4 +1,4 @@
-program HashIdTest;
+program HashIdConsole;
 
 {$APPTYPE CONSOLE}
 
